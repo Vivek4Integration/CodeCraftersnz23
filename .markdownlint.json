@@ -1,0 +1,6 @@
+{
+  "MD024": false, // Suppressing duplicate heading check as slides will have duplicate title.
+  "MD033": false, // Suppressing detection of custom html tag as it is will be used. 
+  "MD041": false,
+  "MD013": false
+}
