@@ -1,7 +1,6 @@
 ---
 marp: true
 author: Vivek Jayachandran
-size: 4:3
 theme: gaia
 
 ---
